@@ -5,9 +5,8 @@ This project is a Python-based Expense Tracking Agent that allows users to manag
 ## Features
 
 *   **Add Expenses**: Record new expenses with category, amount, and date. Supports natural language dates and category normalization.
-*   **Update Expenses**: Modify existing expense records using their unique ID.
+*   **Update Expenses**: Modify existing expense records.
 *   **Delete Expenses**: Remove expense records from the database.
-*   **Find Expenses**: Search for expenses based on criteria like date, category, or amount.
 *   **Summarize Expenses**: Generate reports on spending within specified date ranges and by category, with totals in Indian Rupees (₹).
 
 ## Technologies Used
@@ -87,3 +86,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 
 This project is licensed under the MIT License.
+
