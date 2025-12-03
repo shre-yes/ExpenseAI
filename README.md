@@ -1,4 +1,4 @@
-# Expense Tracking Agent
+# Expense AI : An Expense Tracking Agent
 
 This project is a Python-based Expense Tracking Agent that allows users to manage their personal finances through a conversational interface. It leverages the Google ADK and Gemini models for natural language processing and agent orchestration.
 
@@ -84,5 +84,6 @@ The `expenses.db` SQLite database will be automatically generated and maintained
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
+
 
 This project is licensed under the MIT License.
