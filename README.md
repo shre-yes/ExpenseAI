@@ -32,19 +32,13 @@ This project is a Python-based Expense Tracking Agent that allows users to manag
     ```
 
 3.  **Install Dependencies**:
-    Create a `requirements.txt` file in the root directory with the following content:
-    ```
-    google-adk
-    pydantic
-    python-dateutil
-    ```
-    Then, install the dependencies:
+    Install the dependencies in the root directory with the following command:
     ```bash
     pip install -r requirements.txt
     ```
 
 4.  **Configure API Key**:
-    Create a `.env` file in the `ExpenseAI/` directory with the following content, replacing `YOUR_API_KEY` with your actual Google API key:
+    Create a `.env` file in the `ExpenseAI/` directory with the following content, replacing `PASTE_YOUR_ACTUAL_API_KEY_HERE` with your actual Google API key:
     ```dotenv
     GOOGLE_GENAI_USE_VERTEXAI=FALSE
     GOOGLE_API_KEY=PASTE_YOUR_ACTUAL_API_KEY_HERE
@@ -84,6 +78,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-
 This project is licensed under the MIT License.
+
 
